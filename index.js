@@ -10,7 +10,7 @@ class Polygon {
     }
 
     set countSides(sides) {
-        this.sides.length = sides.length
+        this.sides.length
     }
 
     get perimeter() {
